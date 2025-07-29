@@ -85,6 +85,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
-- NBA API for providing comprehensive team statistics
+- NBA.com and NBA API for providing comprehensive team statistics
 - Scikit-learn for machine learning algorithms
-- The NBA community for play type data insights
